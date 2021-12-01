@@ -12,7 +12,7 @@
 
 
 ## Spring(Spring/SpringBoot)
-* Spring Security1
+* [Spring Security1](https://github.com/SohyeonP/TIL/blob/main/spring/SpringSecurity_1.md)
 
 ## JPA
 *
