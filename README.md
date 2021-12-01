@@ -1,1 +1,39 @@
-# TIL
+# Today I Learnd(TIL)
+
+```
+매일 알게된것들에 대해 학습하고 내용을 정리해두는 저장소
+이해한 만큼만 작성
+```
+--- 
+[마크다운작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+## Java
+*
+
+
+## Spring Framework
+*
+
+## JPA
+*
+
+## Git
+*
+
+## Database
+*
+
+## WAS
+*
+
+## Tools
+*
+
+## Block-chain
+*
+
+## AWS 
+*
+
+## ETC
+
