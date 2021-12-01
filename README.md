@@ -36,4 +36,7 @@
 *
 
 ## ETC
+* [서버응답시간이중요한이유]()
 
+## CI/CD
+* [Proxy(Foward Proxy Reverse Proxy)]()

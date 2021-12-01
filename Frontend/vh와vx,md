@@ -1,0 +1,44 @@
+# vh와 vx
+
+구분: CSS, HTML
+링크: https://programming119.tistory.com/93
+
+## VH?VX?
+
+---
+
+Viewport height와 ViewportWidth 
+
+현재 실행중인 스크린 크게이 맞춰 상대적 크기를 반환 하겠다는것
+
+100 vh 100vw 전체 화면의 기준
+
+현재스크린의 크기가 height- 1000px width =800px 라고 하면
+
+1vh =10px/ 1vw=8px 
+
+height =50vh
+
+width25vw;
+
+## %와의 차이는?
+
+---
+
+width:100%
+
+width:100vh
+
+**둘이 다른뜻**
+
+vh,vw는 열려있는 화면 전체의 상대 길이이기때문에 스크롤바를 포함한 길이를 반환
+
+%창중심이 아닌, %요소를 쓰고 있는 요소의 부모 요소의 길이에 맞게 반환
+
+## vmin/vmax
+
+---
+
+viewport의 길이중 더 긴길이를 기준으로 삼을려고 하면 vmax
+
+더 짧은 길이를 기준으로 쓸려고 하면 vmin
