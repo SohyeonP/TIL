@@ -42,4 +42,4 @@
 * [HTTP 상태코드](https://github.com/SohyeonP/TIL/blob/main/Server/HtttStatusCode.md)
 
 ## CI/CD
-* [Proxy(Foward Proxy Reverse Proxy)]()
+* [Proxy(Foward Proxy Reverse Proxy)](https://github.com/SohyeonP/TIL/blob/main/CI/CD/Proxy.md)
