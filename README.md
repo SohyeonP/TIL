@@ -7,6 +7,9 @@
 --- 
 [마크다운작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
+## Bakend
+* [JWT] (https://github.com/SohyeonP/TIL/blob/main/Backend/JWT.md)
+* [Redis] (https://github.com/SohyeonP/TIL/blob/main/Backend/Redis.md)
 ## Spring
 * [SpringSecurity_1](https://github.com/SohyeonP/TIL/blob/main/spring/SpringSecurity_1.md)
 
@@ -22,6 +25,7 @@
 
 ## Database
 * [DML,DDL,DCL](https://github.com/SohyeonP/TIL/blob/main/Database/DCL.md)
+* [Mybatis,Ibatis](https://github.com/SohyeonP/TIL/blob/main/Database/MybatisvsIbatis.md)
 
 ## WAS
 *
