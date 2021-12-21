@@ -26,10 +26,6 @@
 * [DML,DDL,DCL](https://github.com/SohyeonP/TIL/blob/main/Database/DCL.md)
 * [Mybatis,Ibatis](https://github.com/SohyeonP/TIL/blob/main/Database/MybatisvsIbatis.md)
 
-## WAS
-* [Nginx]()
-* [WAS와 Web Server의 차이]()
-
 ## Tools
 * [Eclipse 코드 스타일 정리]()
 
@@ -41,6 +37,9 @@
 
 ## SERVER
 * [HTTP 상태코드](https://github.com/SohyeonP/TIL/blob/main/Server/HtttStatusCode.md)
+* [Nginx](https://github.com/SohyeonP/TIL/blob/main/Server/nginx.md)
+* [WAS와 Web Server의 차이]()
+
 
 ## CI/CD
 * [Proxy(Foward Proxy Reverse Proxy)](https://github.com/SohyeonP/TIL/blob/main/CI/CD/Proxy.md)
