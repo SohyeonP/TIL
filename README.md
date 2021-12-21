@@ -13,13 +13,11 @@
 ## Spring
 * [SpringSecurity_1](https://github.com/SohyeonP/TIL/blob/main/spring/SpringSecurity_1.md)
 * [SpringProFile](https://github.com/SohyeonP/TIL/blob/main/spring/Spring_Profile.md)
-
+* [Spring Data JPA]()
 
 ## Spring(Spring/SpringBoot)
 * [Spring Security1](https://github.com/SohyeonP/TIL/blob/main/spring/SpringSecurity_1.md)
 
-## JPA
-*
 
 ## Git
 * [커밋 메세지 정리](https://github.com/SohyeonP/TIL/blob/main/Git/commitmsg.md)
