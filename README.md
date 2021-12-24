@@ -27,7 +27,7 @@
 * [Mybatis,Ibatis](https://github.com/SohyeonP/TIL/blob/main/Database/MybatisvsIbatis.md)
 
 ## Tools
-* [Eclipse 코드 스타일 정리](https://github.com/SohyeonP/TIL/blob/main/Tools/eclipse.md)
+* [Eclipse 코드 스타일 정리]()
 
 ## Block-chain
 * [NFT](https://github.com/SohyeonP/TIL/blob/main/blockchain/nft.md)
