@@ -22,4 +22,5 @@ ex) 음악을 들으면서 웹서핑을 하는 행위
 
 운영체제의 일부인스케줄러에 의해 독립적으로 관리될수 있는 프로그래밍된 명령어의 가장 작은 시퀀스.
 
+업데이트
 [Ref](https://charlezz.medium.com/process%EC%99%80-thread-%EC%9D%B4%EC%95%BC%EA%B8%B0-5b96d0d43e37)
